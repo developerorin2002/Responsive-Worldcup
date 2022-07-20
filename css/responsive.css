@@ -79,7 +79,12 @@
     .blogs {
         grid-template-columns: repeat(1 ,1fr);
     }
-    /* footer */
+    .view-all-btn{
+        display: none;
+    }
+    /*============================================
+     footer 
+     ==========================================*/
     .footer-text h1{
         padding-bottom: 0px;
     }

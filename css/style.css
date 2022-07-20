@@ -192,5 +192,13 @@ footer{
 
 
 
-
-
+/*================================
+ up coming match css
+ ===============================*/
+ .blog-img-match{
+    display: flex;
+    justify-items: center;
+ }
+.blog-img-match img {
+    width: 50%;
+}
